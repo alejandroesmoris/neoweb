@@ -1,0 +1,6 @@
+{
+  "name": "Neo Web",
+  "description": "Sitios web modernos, rápidos y e-commerce para hacer crecer tu negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
